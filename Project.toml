@@ -1,0 +1,4 @@
+name = "JuliaChessGame"
+uuid = "4771a913-99ce-4196-8955-591ec69dc37f"
+authors = ["ashkaty <ashkaty@gmail.com>"]
+version = "0.1.0"
